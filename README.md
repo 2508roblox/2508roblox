@@ -17,9 +17,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b> Giang </b>
-        </samp>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5001&pause=1000&color=B91AF7&center=true&random=true&width=435&lines=%3E+Hey+There!%2C+I+am+Giang+" alt="Typing SVG" /></a>
 </h3>
 
 
