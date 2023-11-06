@@ -16,9 +16,7 @@
 
 
 <!-- Intro  -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=C01AF7&random=false&width=435&lines=%3E+Hey+There!%2C+I+am+Giang+;%3E+I+am+Web+Development;%3E+I+am+19+years+old" alt="Typing SVG" /></a>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=A204F7&random=false&width=835&height=70&lines=%3E+Hey+There!%2C+I+am+Giang+;%3E+I+am+Web+Development;%3E+I+am+19+years+old" alt="Typing SVG" /></a>
 
 
 <p align="center">
