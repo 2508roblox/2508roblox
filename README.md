@@ -12,9 +12,7 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+ 
 
 
 <!-- Intro  -->
@@ -75,8 +73,8 @@
 ## Top Open Source -
 [![Socio Web Application](https://github-readme-stats.vercel.app/api/pin/?username=2508roblox&repo=Socio_Client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/2508roblox/Socio_Client)
 [![Electro Laravel Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=2508roblox&repo=laravel_livewire&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)](https://github.com/alsiam/al-folio)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io)
+[![Php Corre](https://github-readme-stats.vercel.app/api/pin/?username=2508roblox&repo=php_mvc_core&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
+[![Socio Server](https://github-readme-stats.vercel.app/api/pin/?username=2508roblox&repo=Socio_Server&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io)
 
 <p align="left">
   <a href="https://github.com/2508roblox?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
